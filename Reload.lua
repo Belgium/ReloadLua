@@ -1,3 +1,8 @@
+--[[
+Script made by TopNotch aka Belgium.
+This script is not complete yet.
+]]
+
 addhook("say","_say")
 function _say(id,txt)
 	if txt=="!reset" then
