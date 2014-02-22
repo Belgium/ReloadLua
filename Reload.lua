@@ -1,6 +1,6 @@
 --[[
 Script made by TopNotch aka Belgium.
-This script is not complete yet.
+This script is not complete yet since it would lead to a crash (last tested with b 0.1.2.2)
 ]]
 
 addhook("say","_say")
